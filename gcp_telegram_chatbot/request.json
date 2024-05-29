@@ -1,0 +1,16 @@
+{
+  "instances": [{
+    "mimeType" : "multipart/form-data",
+    "ID" : "1",
+    "Gender" : "Male",
+    "Age" : "19",
+    "income" : "15"
+  },{
+  "mimeType" : "multipart/form-data",
+    "ID" : "100",
+    "Gender" : "Male",
+    "Age" : "20",
+    "income" : "61"
+  }
+]
+}
